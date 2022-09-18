@@ -1,8 +1,9 @@
 
 # React Calculator
 
-![preview](./public/preview.png)
-
+<p align="center">
+    <img width="500" src="./public/preview.png">
+</p>
 Projeto construído utilizando as ferramentas do React
 
 ## 🛠 Tecnologias
